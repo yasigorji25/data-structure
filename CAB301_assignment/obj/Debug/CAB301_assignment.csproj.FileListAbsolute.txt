@@ -1,0 +1,6 @@
+/Users/jasmin/Projects/CAB301_assignment/CAB301_assignment/bin/Debug/CAB301_assignment.exe
+/Users/jasmin/Projects/CAB301_assignment/CAB301_assignment/bin/Debug/CAB301_assignment.pdb
+/Users/jasmin/Projects/CAB301_assignment/CAB301_assignment/obj/Debug/CAB301_assignment.csprojAssemblyReference.cache
+/Users/jasmin/Projects/CAB301_assignment/CAB301_assignment/obj/Debug/CAB301_assignment.csproj.CoreCompileInputs.cache
+/Users/jasmin/Projects/CAB301_assignment/CAB301_assignment/obj/Debug/CAB301_assignment.exe
+/Users/jasmin/Projects/CAB301_assignment/CAB301_assignment/obj/Debug/CAB301_assignment.pdb
